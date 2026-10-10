@@ -173,7 +173,7 @@ GitHub Actions can automate these stages through a CI/CD pipeline.
 
 ## 👨‍💻 Author
 
-**Bhuyan Bhaskar Deo**
+**JAY PRAKASH KUMAR **
 
 National Institute of Technology Jamshedpur
 
