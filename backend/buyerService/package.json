@@ -1,0 +1,19 @@
+{
+  "name": "buyer-domain-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.22.0",
+    "bullmq": "^5.67.2",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "kafkajs": "^2.2.4",
+    "pino": "^10.2.0",
+    "prisma": "^5.22.0",
+    "redis": "^5.11.0"
+  }
+}
